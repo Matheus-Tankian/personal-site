@@ -1,66 +1,77 @@
 body{
-   margin: 0;
-   text-align: center;
-   font-family:'Merriweather', serif;
-}
+    margin: 0;
+    text-align: center;
+    font-family:'Merriweather', serif;
+ }
+ 
+ h1{
+     color: #66bfbf;
+    margin-top: 50px auto 0 auto;
+    font-family: 'Sacramento', cursive;
+    font-size: 5.625rem;
+ }
+ 
 
-h1{
-   margin-top: 0;
-   font-family: 'Sacramento', cursive;
-   font-size: 5.625rem;
-}
 
-.top-conatainer p{
-    font-size: 1.5rem;
-}
-h2{
+ h2{
+    color: #66bfbf;
+     font-family: 'Montserrat', sans-serif;
+     font-size: 2.5rem;
+     font-style: normal;
+     
+ }
+ 
+ h3{
+    color: #11999e;
+     font-family: 'Montserrat', sans-serif;
+ }
+
+ .top-conatainer p{
     font-family: 'Montserrat', sans-serif;
+    color: #66bfbf;
+    font-size: 2.5rem;
 }
-
-h3{
-    font-family: 'Montserrat', sans-serif;
-}
-
-.top-conatainer{
-    background-color: #E4F9F5;
-    position: relative;
-    padding-top: 100px;
-}
-
-
-.middle-container img{
-    width: 400px;
-    height: 400px;
-}
-
-#myphoto{
-    height: 200px;
-    width: 200px;
-}
-.middle-container{
+ 
+ .top-conatainer{
+     background-color: #E4F9F5;
+     position: relative;
+     padding-top: 100px;
+ }
+ 
+ 
+ .middle-container img{
+     width: 400px;
+     height: 400px;
+ }
+ 
+ #myphoto{
+     height: 200px;
+     width: 200px;
+ }
+ .middle-container{
+     
+ }
+ 
+ #phone{
+     background-color: rgb(255, 136, 0);
+     border-radius: 50%;
+ }
+ 
+ .bottom-container{
     
-}
-
-#phone{
-    background-color: rgb(255, 136, 0);
-    border-radius: 50%;
-}
-
-.bottom-container{
-   
-}
-
-.pro{
-    text-decoration: underline;
-}
-
-.bottom-cloud{
-    position: absolute;
-    left: 300px;
-}
-
-.top-cloud{
-    position: absolute;
-    right: 300px;
-    top: 50px;
-}
+ }
+ 
+ .pro{
+     text-decoration: underline;
+ }
+ 
+ .bottom-cloud{
+     position: absolute;
+     left: 300px;
+ }
+ 
+ .top-cloud{
+     position: absolute;
+     right: 300px;
+     top: 50px;
+ }
